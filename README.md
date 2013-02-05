@@ -1,2 +1,2 @@
-MyFirstRepo
+This is my first repositry.
 ===========
